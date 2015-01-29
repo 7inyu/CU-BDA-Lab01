@@ -3,7 +3,7 @@ About
 
 	$ whoami
 
-My name is Qinyu Wang. I am a **Master of Engineering** candidate at **ORIE**, **Cornell University**.
+My name is Qinyu Wang. I am a first year **Master of Engineering** candidate at **ORIE**, **Cornell University**.
 
 	$ mkdir ~/DataScience
 
