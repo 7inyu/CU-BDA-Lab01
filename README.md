@@ -33,8 +33,8 @@ One particular problem I am working on is how to optimize assortment of a superm
 
 Currently I have the transaction data that spans two months and 5 stores of different sizes and locations. It would be interesting to see how customers' behaviors vary between stores.
 
-Due to non-disclosure agreement I can not share any information about the data, however I shall still share a cute picture.
+Due to non-disclosure agreement I can not share any detailed information about the data, the following is a time series plot of two correlated products' stock in a specific store. I want to find such association rule between products and take advantage of them to optimize assortment.
 
-![A cute pug in NYC](https://raw.githubusercontent.com/7inyu/CU-BDA-Lab01/master/rsz_pug.jpg)
+![A cute pug in NYC](https://raw.githubusercontent.com/7inyu/CU-BDA-Lab01/master/stock_plot.png)
 
 
