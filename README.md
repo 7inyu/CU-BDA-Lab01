@@ -33,7 +33,7 @@ One particular problem I am working on is how to optimize assortment of a superm
 
 Currently I have the transaction data that spans two months and 5 stores of different sizes and locations. It would be interesting to see how customers' behaviors vary between stores.
 
-Due to non-disclosure agreement I can not share any information about the data, but I will still share a cute picture.
+Due to non-disclosure agreement I can not share any information about the data, however I shall still share a cute picture.
 
 ![A cute pug in NYC](https://raw.githubusercontent.com/7inyu/CU-BDA-Lab01/master/rsz_pug.jpg)
 
