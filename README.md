@@ -27,8 +27,14 @@ Most of my statistics course professors claim to be **Frequentists**. It would b
 |Statistician|yes|yes|
 |Respect Data|yes|yes|
 
+Data Analysis Problems
+===
+One particular problem I am working on is how to optimize assortment of a supermarket based on its transaction data.
 
+Currently I have the transaction data that spans two months and 5 stores of different sizes and locations. It would be interesting to see how customers' behaviors vary between stores.
 
+Due to non-disclosure agreement I can not share any information about the data, but I will still share a cute picture.
 
+![A cute pug in NYC](https://raw.githubusercontent.com/7inyu/CU-BDA-Lab01/master/rsz_pug.jpg)
 
 
